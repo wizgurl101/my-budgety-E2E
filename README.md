@@ -1,1 +1,1 @@
-# my-budgety-E2E
+# My Budgety E2E Tests
